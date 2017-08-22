@@ -1,0 +1,20 @@
+
+.hangman-img{
+    background: url('http://www.flashbynight.com/tutes/hangmanhtml5/man.png') no-repeat left top; 
+    height:200px;
+    width:75px;
+    display: inline-block;
+}
+
+.hangman-word{
+    font-family: monospace;
+}
+
+.wrong-letters{
+    text-transform: uppercase;
+}
+
+.alert {
+    min-height: 86px;
+    margin-bottom: 0;
+}
